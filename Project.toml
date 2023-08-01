@@ -1,0 +1,4 @@
+name = "lispjl"
+uuid = "74993fc5-2d05-4ae7-9a2a-f4c44d3d81e7"
+authors = ["Martin Billinger-Finke <billinger.martin@gmail.com>"]
+version = "0.1.0"
